@@ -1,0 +1,69 @@
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jproject.exe.config
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jproject.exe
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jproject.pdb
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jClient.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Net.Security.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Net.Sockets.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.Threading.Thread.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jClient.pdb
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jClient.xml
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.ValueTuple.xml
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form1.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form2.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form3.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form4.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.exe
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.pdb
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4j.Driver.dll
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4j.Driver.xml
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form5.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form6.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form7.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form8.resources
+C:\Users\Korisnik\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form9.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jproject.exe.config
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jproject.exe
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jproject.pdb
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4j.Driver.dll
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jClient.dll
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Newtonsoft.Json.dll
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.ComponentModel.Annotations.dll
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.ValueTuple.dll
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4j.Driver.xml
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jClient.pdb
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Neo4jClient.xml
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\Newtonsoft.Json.xml
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\bin\Debug\System.ValueTuple.xml
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.AssemblyReference.cache
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.SuggestedBindingRedirects.cache
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form1.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form2.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form3.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form4.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form5.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form6.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form7.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form8.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Form9.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.Properties.Resources.resources
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.GenerateResource.cache
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.CoreCompileInputs.cache
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.csproj.CopyComplete
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.exe
+D:\becup 2022\source\repos\Neo4jproject\Neo4jproject\obj\Debug\Neo4jproject.pdb
